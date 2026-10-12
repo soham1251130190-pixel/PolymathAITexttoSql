@@ -1,0 +1,13 @@
+
+financial_datasets/
+*.db
+*.sqlite
+*.sqlite3
+*.csv
+*.csv.gz
+*.zip
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
